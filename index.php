@@ -8,5 +8,6 @@
 </head>
 <body>
     <h1>Git Study</h1>
+    <h2>1. Git 이란 무엇인가?</h2>
 </body>
 </html>
